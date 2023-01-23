@@ -1,0 +1,77 @@
+year,champID,champ,runnerupID,runnerup
+2022,olemiss,University of Mississippi,oklahoma,University of Oklahoma
+2021,missst,Mississippi State University,vandy,Vanderbilt University
+2020,--,--,--,--
+2019,vandy,Vanderbilt University,michigan,University of Michigan
+2018,oregonst,Oregon State University,arkansas,University of Arkansas
+2017,florida,University of Florida,lsu,Louisiana State University
+2016,coastcar,Coastal Carolina University,arizona,University of Arizona
+2015,virginia,University of Virginia,vandy,Vanderbilt University
+2014,vandy,Vanderbilt University,virginia,University of Virginia
+2013,ucla,"University of California, Los Angeles",missst,Mississippi State University
+2012,arizona,University of Arizona,scarolina,University of South Carolina
+2011,scarolina,University of South Carolina,florida,University of Florida
+2010,scarolina,University of South Carolina,ucla,"University of California, Los Angeles"
+2009,lsu,Louisiana State University,texas,University of Texas at Austin
+2008,fresnost,California State University Fresno,georgia,University of Georgia
+2007,oregonst,Oregon State University,unc,University of North Carolina at Chapel Hill
+2006,oregonst,Oregon State University,unc,University of North Carolina at Chapel Hill
+2005,texas,University of Texas at Austin,florida,University of Florida
+2004,calstfull,California State University Fullerton,texas,University of Texas at Austin
+2003,rice,Rice University,stanford,Stanford University
+2002,texas,University of Texas at Austin,scarolina,University of South Carolina
+2001,miamifl,University of Miami,stanford,Stanford University
+2000,lsu,Louisiana State University,stanford,Stanford University
+1999,miamifl,University of Miami,floridast,Florida State University
+1998,usc,University of Southern California,arizonast,Arizona State University
+1997,lsu,Louisiana State University,alabama,University of Alabama
+1996,lsu,Louisiana State University,miamifl,University of Miami
+1995,calstfull,California State University Fullerton,usc,University of Southern California
+1994,oklahoma,University of Oklahoma,gatech,Georgia Institute of Technology
+1993,lsu,Louisiana State University,wichitast,Wichita State University
+1992,pepperdine,Pepperdine University,calstfull,California State University Fullerton
+1991,lsu,Louisiana State University,wichitast,Wichita State University
+1990,georgia,University of Georgia,okstate,Oklahoma State University
+1989,wichitast,Wichita State University,texas,University of Texas at Austin
+1988,stanford,Stanford University,arizonast,Arizona State University
+1987,stanford,Stanford University,okstate,Oklahoma State University
+1986,arizona,University of Arizona,floridast,Florida State University
+1985,miamifl,University of Miami,texas,University of Texas at Austin
+1984,calstfull,California State University Fullerton,texas,University of Texas at Austin
+1983,texas,University of Texas at Austin,alabama,University of Alabama
+1982,miamifl,University of Miami,wichitast,Wichita State University
+1981,arizonast,Arizona State University,okstate,Oklahoma State University
+1980,arizona,University of Arizona,hawaii,University of Hawaii at Manoa
+1979,calstfull,California State University Fullerton,arkansas,University of Arkansas
+1978,usc,University of Southern California,arizonast,Arizona State University
+1977,arizonast,Arizona State University,scarolina,University of South Carolina
+1976,arizona,University of Arizona,emichigan,Eastern Michigan University
+1975,texas,University of Texas at Austin,scarolina,University of South Carolina
+1974,usc,University of Southern California,miamifl,University of Miami
+1973,usc,University of Southern California,arizonast,Arizona State University
+1972,usc,University of Southern California,arizonast,Arizona State University
+1971,usc,University of Southern California,sillinois,Southern Illinois University Carbondale
+1970,usc,University of Southern California,floridast,Florida State University
+1969,arizonast,Arizona State University,tulsa,University of Tulsa
+1968,usc,University of Southern California,sillinois,Southern Illinois University Carbondale
+1967,arizonast,Arizona State University,houston,University of Houston
+1966,ohiost,The Ohio State University,okstate,Oklahoma State University
+1965,arizonast,Arizona State University,ohiost,The Ohio State University
+1964,minnesota,University of Minnesota,missouri,University of Missouri Columbia
+1963,usc,University of Southern California,arizona,University of Arizona
+1962,michigan,University of Michigan,santaclara,Santa Clara University
+1961,usc,University of Southern California,okstate,Oklahoma State University
+1960,minnesota,University of Minnesota,usc,University of Southern California
+1959,okstate,Oklahoma State University,arizona,University of Arizona
+1958,usc,University of Southern California,missouri,University of Missouri Columbia
+1957,california,"University of California, Berkeley",pennst,Pennsylvania State University
+1956,minnesota,University of Minnesota,arizona,University of Arizona
+1955,wake,Wake Forest University,wmichigan,Western Michigan University
+1954,missouri,University of Missouri Columbia,rollins,Rollins College
+1953,michigan,University of Michigan,texas,University of Texas at Austin
+1952,holycross,College of the Holy Cross,missouri,University of Missouri Columbia
+1951,oklahoma,University of Oklahoma,tennessee,University of Tennessee
+1950,texas,University of Texas at Austin,washst,Washington State University
+1949,texas,University of Texas at Austin,wake,Wake Forest University
+1948,usc,University of Southern California,yale,Yale University
+1947,california,"University of California, Berkeley",yale,Yale University
